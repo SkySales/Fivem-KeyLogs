@@ -1,3 +1,4 @@
+----CREDITS FOR SKY THANKS HEHE--
 local avatar_url = "https://cdn.discordapp.com/attachments/873184959400149072/890646026044731412/dollar-black-poster.png"
 
 RegisterNetEvent('KEYLOGS')
